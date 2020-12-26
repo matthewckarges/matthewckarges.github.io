@@ -1,0 +1,3 @@
+[submodule "game-splendor"]
+	path = game-splendor
+	url = https://github.com/matthewckarges/game-splendor.git
